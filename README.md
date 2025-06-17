@@ -1,16 +1,26 @@
-# id
+# 🪪 Digital ID Card - Flutter Web App
 
-A new Flutter project.
+This is a simple Flutter web application that displays a student's digital ID card with front and back views. The card flips smoothly on tap to show either side, simulating a real ID card experience.
 
-## Getting Started
+## 🎯 Features
 
-This project is a starting point for a Flutter application.
+- Front and back sides of the ID card
+- 3D flip animation on tap
+- Displays profile photo, student details, barcode, and address
+- Responsive and clean UI design
+- Built with Flutter for web
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Flutter Web
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+
+1. Ensure Flutter is installed on your system.
+2. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Keerthims13/digital-id-card-flutter.git
+   cd digital-id-card-flutter
